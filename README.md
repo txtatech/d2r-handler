@@ -11,7 +11,7 @@ https://docs.microsoft.com/en-us/sysinternals/downloads/handle
 
 **Usage:**
 
-Launch D2R-Handler.bat and select and option.
+Launch D2R-Handler.bat and select an option.
 
 **Notes:**
 
