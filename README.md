@@ -6,6 +6,7 @@ Batch scripts for Diablo II: Resurrected  to close the "DiabloII Check For Other
 These scripts require handle64.exe to be in the same directoy as they are.
 
 You can find handle64 here:
+
 https://docs.microsoft.com/en-us/sysinternals/downloads/handle
 
 **Usage:**
