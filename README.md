@@ -13,7 +13,7 @@ https://docs.microsoft.com/en-us/sysinternals/downloads/handle
 
 Launch D2R-Handler.bat and select and option.
 
-Notes:
+**Notes:**
 
 These batch files are based off the following post on how to multibox with Diablo II: Resurrected
 
