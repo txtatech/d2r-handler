@@ -15,4 +15,5 @@ Launch D2R-Handler.bat and select and option.
 Notes:
 
 These batch files are based off the following post on how to multibox with Diablo II: Resurrected
+
 https://us.forums.blizzard.com/en/d2r/t/how-to-multiple-d2r-instances-requires-two-accounts/60546?page=2
